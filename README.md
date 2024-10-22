@@ -1,11 +1,11 @@
+## Arquivos
+- Em Projeto Completo - Final, há um arquivo chamado explicação, nele você tem um contéudo para entender sobre React. Nesse arquivo, foi utilizado React para seu desenvolvimento;
+- Em Projeto Completo - Final, também há um outro arquivo chamado aplicação onde nele foi feito um site em React para Exemplo de desenvolvimento.
+
 ## Tutorial: Como abrir um arquivo React, instalar dependências e rodar a aplicação
 [1. Pré-requisitos](#) 
 - Node.js: Certifique-se de ter o Node.js instalado na sua máquina. Você pode baixar e instalar o Node.js a partir do site oficial.
 - NPM: O Node.js já inclui o NPM (Node Package Manager), que será necessário para instalar as dependências do projeto.
-
-## Arquivos
-- Em Projeto Completo - Final, há um arquivo chamado explicação, nele você tem um contéudo para entender sobre React. Nesse arquivo, foi utilizado React para seu desenvolvimento;
-- Em Projeto Completo - Final, também há um outro arquivo chamado aplicação onde nele foi feito um site em React para Exemplo de desenvolvimento.
 
 [2. Baixando o projeto](#)
 - Baixe o arquivo (Preferencialmente o Projeto Completo - Final);
