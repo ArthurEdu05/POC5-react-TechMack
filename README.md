@@ -38,6 +38,7 @@ Local: http://localhost:3000
 ```
 
 [6. Abrir o projeto no navegador](#)
+
 Copie o link fornecido pelo terminal (normalmente http://localhost:3000) e cole no seu navegador de internet. A aplicação React agora estará rodando localmente no seu navegador!
 
 - - -
