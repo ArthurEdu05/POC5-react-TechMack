@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/81462f66-bd2f-4b8e-acec-c2c06fed4306)# POC5-react-TechMack
+
 A estrutura de projeto do Next.js organiza o desenvolvimento de aplicações web em uma estrutura modular, visando facilitar
  a construção de rotas, a gestão de componentes, e a utilização de APIs e estilos. Ela segue convenções que ajudam a manter o projeto organizado, escalável e fácil de manter.
 
